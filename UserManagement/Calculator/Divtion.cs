@@ -2,9 +2,9 @@
 {
     public class Divtion
     {
-        public static float Div(int NumberOne, int NumberTwo)
+        public static float Div(float NumberOne, float NumberTwo)
         {
-            int div = 0;
+            float div = 0;
             div = NumberOne / NumberTwo;
             return div;
         }
