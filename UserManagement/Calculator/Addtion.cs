@@ -8,7 +8,6 @@ namespace UserManagement.Calculator
             int Sum = 0;
             Sum = NumberOne + NumberTwo;
             return Sum;
-            //this is my first commit
         }
     }
 }
