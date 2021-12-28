@@ -6,7 +6,7 @@ namespace UserManagement.Calculator
         public static int Add(int NumberOne, int NumberTwo)
         {
             int Sum = 0;
-            Sum += NumberOne + NumberTwo;
+            Sum = NumberOne + NumberTwo;
             return Sum;
         }
     }
